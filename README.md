@@ -1,9 +1,6 @@
 ## ✨ Say Happy Birthday with Webpage
 
 <p align="center">
-<="https://user-images.githubusercontent.com/71541409/164498700-1b44dcbe-7ab043.jpg" width="60%" />
-</p>
-
 
 
 
