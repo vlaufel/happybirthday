@@ -1,11 +1,11 @@
 ## ✨ Say Happy Birthday with Webpage
  Screenshot
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71541409/164498700-1b44dcbe-7ab8-4f2e-bf48-085597875043.jpg" width="60%" />
+<img src="https://user-images.githubusercontent.com/71541409/164498700-1b44dcbe-7ab043.jpg" width="60%" />
 </p>
 
-> [Demo](https://fajaraldev.github.io/happybirthday/) &nbsp;&middot;&nbsp;
-> [Documentation](https://www.fajaraldev.com/2021/04/template-membuat-ucapan-happy-birthday.html)
+> [Demo](https://fajaraldev.
+
 
 ## 🚀 How to Use
 
@@ -13,10 +13,10 @@
 
     ```bash
     # Clone this repository or download
-    $ git clone https://github.com/fajaraldev/happybirthday
+    $ git clone https://github.com/asdfafshhdhdkks/happybirthday27
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd happybirthday27
 
     # Open with your text editor
     $ code .
@@ -40,5 +40,5 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 
 ### [MIT](LICENSE)
 
-> Github [@fajaraldev](https://github.com/fajaraldev) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
+> Github [@asdfafshhdhdkks](https://github.com/asdfafshhdhdkks) &nbsp;&middot;&nbsp;
+> Instagram [@luv4yu__](https://instagram.com/luv4yu__)
