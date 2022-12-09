@@ -13,7 +13,7 @@
     $ git clone https://github.com/asdfafshhdhdkks/happybirthday27
 
     # Go into the repository
-    $ cd happybirthday27
+    $ cd happybirthday
 
     # Open with your text editor
     $ code .
@@ -37,5 +37,5 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 
 ### [MIT](LICENSE)
 
-> Github [@asdfafshhdhdkks](https://github.com/asdfafshhdhdkks) &nbsp;&middot;&nbsp;
+> Github [@asdfafshhdhdkks](https://github.com/vlaufel) &nbsp;&middot;&nbsp;
 > Instagram [@luv4yu__](https://instagram.com/luv4yu__)
